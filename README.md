@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 app description:
 Weather App Description:<br>Overview: The Weather App is a user-friendly tool designed to provide real-time weather information for cities around the world. With a clean, modern interface and intuitive controls, users can quickly access the current temperature, weather conditions, humidity, and wind speed for any location. This app leverages the OpenWeatherMap API to deliver accurate and up-to-date data, making it a reliable source for weather forecasts.
 
 Key Features:
